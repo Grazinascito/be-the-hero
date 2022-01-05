@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    overflow: hidden;
+}
+
+body{
+    background-color: #F0F0F5;
+    font-family: "Roboto", sans-serif;
+    
+}
+
+h1{
+    color: #13131A;
+}
+
+input{
+    
+    padding: 1.5rem;
+    outline: none;
+    border-radius: 0.6rem;
+    border: 1.6px solid #DCDCE5 
+}
+
+input::placeholder{
+    color: #A8A8B3;
+    font-family: "Roboto", sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    cursor: pointer;
+    background-color: #E02041;
+    color: #fff;
+    padding: 1.5rem;
+    border-radius: 0.6rem;
+    border: none; 
+}

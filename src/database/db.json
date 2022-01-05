@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "name_ong": "Paz e amor",
+      "email": "olivier@mail.com",
+      "password": "445566",
+      "whatsapp_user": "71985823565",
+      "city_user": "Salvador",
+      "uf_user": "ba",
+      "id": 3
+    }
+  ],
+  "login": [
+    {
+      "email": "olivier@mail.com",
+      "password": "445566",
+      "id": 1,
+      "accessToken": "xxx.xxx.xxx"
+    },
+    {
+      "email": "olivier@mail.com",
+      "password": "445566",
+      "accessToken": "xxx.xxx.xxx",
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+main {
+  display: flex;
+  padding: 10rem 8rem 14rem 14rem;
+
+  .footer__principal-login a {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    margin-bottom: 10rem;
+
+    img {
+      width: 2rem;
+    }
+
+    strong {
+      margin-left: 1rem;
+      color: #41414d;
+    }
+  }
+}
+
+.principal-login {
+  flex: 1;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  h1 {
+    font-size: 3.6rem;
+    margin-top: 10rem;
+  }
+
+  .principal-login__input {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 1rem;
+  }
+}
+
+.principal-image {
+  flex: 2;
+  margin-left: 15rem;
+}
+
+.principal-login__input > input{
+  margin-top: 0.5rem;
+}

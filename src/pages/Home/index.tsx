@@ -1,4 +1,4 @@
-import "./style.scss";
+import "./style.scss"
 import logoutImg from "../../assets/logoutImg.svg";
 import logoImg from "../../assets/Logo.svg";
 import deleteImg from "../../assets/deleteImg.svg";

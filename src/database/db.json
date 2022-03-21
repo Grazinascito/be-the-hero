@@ -15,6 +15,45 @@
       "city_user": "Salvador",
       "uf_user": "ba",
       "id": 3
+    },
+    {
+      "nameRegister": "",
+      "id": 4
+    },
+    {
+      "nameRegister": "",
+      "id": 5
+    },
+    {
+      "nameRegister": "",
+      "id": 6
+    },
+    {
+      "nameRegister": "Maria",
+      "EmailRegister": "maria@gmail.com",
+      "passWordRegister": "123456",
+      "whatsAppRegister": "719865231",
+      "estadoRegister": "BA",
+      "cityRegister": "Salvador",
+      "id": 8
+    },
+    {
+      "nameRegister": "",
+      "EmailRegister": "",
+      "passWordRegister": "",
+      "whatsAppRegister": "",
+      "estadoRegister": "",
+      "cityRegister": "",
+      "id": 9
+    },
+    {
+      "nameRegister": "",
+      "EmailRegister": "",
+      "passWordRegister": "",
+      "whatsAppRegister": "",
+      "estadoRegister": "",
+      "cityRegister": "",
+      "id": 10
     }
   ],
   "login": [

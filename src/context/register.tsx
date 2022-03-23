@@ -3,6 +3,7 @@ import { useRegisterProvider } from "../hooks/useRegisterProvider";
 
 interface ChildrenProps{
     children: ReactNode,
+    
 }
 
 
@@ -46,7 +47,7 @@ export function RegisterProvider({children}:ChildrenProps){
     const RegisterProvider = useRegisterProvider();
 
     return(
-        <RegisterContext.Provider value={RegisterProvider}>
+        <RegisterContext.Provider value={initialValue}>
             {children}
         </RegisterContext.Provider>
     )

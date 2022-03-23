@@ -17,30 +17,54 @@
       "id": 3
     },
     {
-      "nameRegister": "",
+      "nameRegister": "leo",
+      "EmailRegister": "leo@gmail.com",
+      "passWordRegister": "1234567",
+      "whatsAppRegister": "71985326457",
+      "estadoRegister": "BA",
+      "cityRegister": "Salvador",
       "id": 4
     },
     {
       "nameRegister": "",
+      "EmailRegister": "",
+      "passWordRegister": "HdEdDU8pd7L3sQP",
+      "whatsAppRegister": "",
+      "estadoRegister": "",
+      "cityRegister": "",
       "id": 5
     },
     {
       "nameRegister": "",
+      "EmailRegister": "",
+      "passWordRegister": "1234567",
+      "whatsAppRegister": "",
+      "estadoRegister": "",
+      "cityRegister": "",
       "id": 6
     },
     {
-      "nameRegister": "Maria",
-      "EmailRegister": "maria@gmail.com",
-      "passWordRegister": "123456",
-      "whatsAppRegister": "719865231",
-      "estadoRegister": "BA",
-      "cityRegister": "Salvador",
+      "nameRegister": "",
+      "EmailRegister": "",
+      "passWordRegister": "1234567",
+      "whatsAppRegister": "",
+      "estadoRegister": "",
+      "cityRegister": "",
+      "id": 7
+    },
+    {
+      "nameRegister": "",
+      "EmailRegister": "",
+      "passWordRegister": "1234567",
+      "whatsAppRegister": "",
+      "estadoRegister": "",
+      "cityRegister": "",
       "id": 8
     },
     {
       "nameRegister": "",
       "EmailRegister": "",
-      "passWordRegister": "",
+      "passWordRegister": "1234567",
       "whatsAppRegister": "",
       "estadoRegister": "",
       "cityRegister": "",
@@ -49,7 +73,7 @@
     {
       "nameRegister": "",
       "EmailRegister": "",
-      "passWordRegister": "",
+      "passWordRegister": "HdEdDU8pd7L3sQP",
       "whatsAppRegister": "",
       "estadoRegister": "",
       "cityRegister": "",
@@ -71,6 +95,9 @@
     },
     {
       "id": 3
+    },
+    {
+      "id": 4
     }
   ]
 }

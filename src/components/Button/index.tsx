@@ -4,6 +4,8 @@ import "./style.scss";
 
 interface ChildrenProps {
     children: ReactNode;
+    
+    
 }
 
 export function Button(props: ChildrenProps){
